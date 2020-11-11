@@ -1,0 +1,9 @@
+
+   .block::after {
+    content: ''; 
+    position: absolute; 
+    left: 100px; bottom: 320px; 
+    border: 120px solid transparent;
+	   border-bottom: 120px solid red;
+	   border-left: 120px solid red;
+   }

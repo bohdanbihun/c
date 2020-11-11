@@ -5,5 +5,5 @@ function calculate(){
 	
 var b=Math.sqrt(x*x + y*y);	
 	
-alert(b);
+alert("гіпотенуза="+b);
 }
